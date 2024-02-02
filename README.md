@@ -1,4 +1,4 @@
-# healthify
+# MEDSYS
 A hospital management system is a software solution that automates and streamlines the
 management of various hospital functions and processes, such as patient registration,
 appointment scheduling, patient records management, billing, inventory management, and
